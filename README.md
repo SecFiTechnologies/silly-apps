@@ -28,7 +28,7 @@ To help us and yourself better understand how far you've made it, please check o
   - Remarks: ...
 - [ ] Accessing resources in the cluster should be done only via  Ambassador API Gateway  and resources (FE and public BE endpoints) are publicly accessible on a single domain
   - Remarks: ...
-- [ ] Docker images employ best security practices and be small. Bonus: Build optimisation (duration, consumed resources)
+- [ ] Docker images employ best security practices and are small. Bonus: Build optimisation (duration, consumed resources)
   - Remarks: ...
 
 ### Additional requirements
@@ -40,4 +40,3 @@ To help us and yourself better understand how far you've made it, please check o
   - [ ] Configure basic cluster monitoring for nodes and pods with Prometheus and consume statistics from Ambassador.
   - [ ] Bonus: Alerting configured
 - Remarks: ...
-
