@@ -10,7 +10,7 @@ With some blanks.
 
 ## Requirements Checklist
 
-To help us and yourself better understand how far you've made it, please check off the completed steps and leave any remarks if you feel they would be useful in review.
+To help us and yourself better understand how far you've made it, please check off the completed steps. Feel free to leave remarks that you feel would be useful in review.
 
 ### Base requirements
 
